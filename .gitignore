@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Test and lint caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+
+# macOS
+.DS_Store
+
+# Generated outputs
+outputs/

@@ -1,0 +1,16 @@
+Title: Introduction to AI Research
+
+Artificial intelligence research explores methods that enable
+computers to perform tasks that typically require human intelligence.
+
+Language models can summarize documents, answer questions, and
+extract important information from text.
+
+Document analysis systems should support their answers with evidence
+from the supplied documents.
+
+If the available documents do not contain enough information to
+answer a question, the system should clearly communicate this limitation.
+
+Retrieval systems identify relevant passages before an AI model
+generates an answer based on those passages.
