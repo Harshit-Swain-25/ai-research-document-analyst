@@ -48,11 +48,9 @@ ai-research-document-analyst/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Harshit-Swain-25/ai-research-document-analyst.git
 cd ai-research-document-analyst
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the URL of your GitHub repository.
 
 ### 2. Create and activate a virtual environment
 
